@@ -6,13 +6,13 @@ tags: 'neovim, devops, linux, automation'
 id: 4345230
 ---
 
-A heavy GUI IDE is great for local development, but it quickly falls apart when you transition to headless servers, low-power client machines, or remote clouds. 
+A GUI IDE is great for local development, but it quickly falls apart when you transition to headless servers, low-power client machines, or remote clouds. 
 
 If you pair an AI agent like **Antigravity CLI** with a native-first Neovim configuration, you can bypass complex setups entirely. Since the AI assistant is the one doing the heavy writing, refactoring, and saving of files, you don't need to be a Vim keyboard wizard to use Neovim. The editor simply becomes a fast, native terminal pane for inspecting the code and reviewing git diffs.
 
 By pairing the two, you can build a modern, high-performance workspace built on native features that runs perfectly in any terminal.
 
-Here is the backstory of how we ended up with this setup, and why going native-first in Neovim became our ultimate remote development tool.
+Here is the backstory of how we ended up with this setup, and why going native-first in Neovim became our preferred remote development tool.
 
 
 ---
