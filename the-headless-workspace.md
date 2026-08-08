@@ -4,6 +4,7 @@ published: true
 description: 'When your AI assistant writes the code, you don''t need a heavy GUI IDE. Learn how Antigravity CLI and a lightweight Neovim setup create the perfect terminal-only workflow.'
 tags: 'neovim, devops, linux, automation'
 id: 4345230
+date: '2026-08-08T03:08:35Z'
 ---
 
 A GUI IDE is great for local development, but it quickly falls apart when you transition to headless servers, low-power client machines, or remote clouds. 
