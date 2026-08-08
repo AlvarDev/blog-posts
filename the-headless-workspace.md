@@ -194,3 +194,5 @@ Because it is a native-first setup, it is simple, lightweight, and highly adapta
 I invite you to run the setup script, modify the configurations, and customize it to fit your needs. If you have your own favorite native Neovim tricks or recommendations, I would love to hear them in the comments!
 
 — AlvarDev
+
+
