@@ -194,3 +194,5 @@ This is the first configuration I’ve shared publicly. It might not be perfect 
 Because it is a native-first setup, it is simple, lightweight, and highly adaptable. It serves as a clean, portable foundation that you can easily make your own.
 
 I invite you to run the setup script, modify the configurations, and customize it to fit your needs. If you have your own favorite native Neovim tricks or recommendations, I would love to hear them in the comments!
+
+— AlvarDev
