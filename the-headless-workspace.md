@@ -185,6 +185,8 @@ bash <(curl -sSL https://raw.githubusercontent.com/AlvarDev/agy-scripts/main/neo
 ```
 *(Select Option `1` to install).*
 
+You can inspect the full installation script, the native config file, and the cheat sheet in the [agy-scripts repository on GitHub](https://github.com/AlvarDev/agy-scripts).
+
 ---
 
 ## 🤝 Try it, tweak it, and share your thoughts
