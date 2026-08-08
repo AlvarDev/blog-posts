@@ -1,6 +1,6 @@
 ---
 title: 'The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve'
-published: false
+published: true
 description: 'When your AI assistant writes the code, you don''t need a heavy GUI IDE. Learn how Antigravity CLI and a lightweight Neovim setup create the perfect terminal-only workflow.'
 tags: 'neovim, devops, linux, automation'
 id: 4345230
