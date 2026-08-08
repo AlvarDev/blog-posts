@@ -23,7 +23,7 @@ My 10-year-old MacBook Pro recently had its screen break. It still works fine, b
 
 To work from the iPad, I use Google Cloud Shell via the web browser. This allows me to write and inspect code using the Cloud Shell Editor and run **Antigravity CLI**.
 
-![Google Cloud Shell Interface showing the Web Editor and Terminal](images/cloud-shell-interface.jpg)
+![Google Cloud Shell Interface showing the Web Editor and Terminal](images/cloud-shell-interface.png)
 
 However, Cloud Shell has strict storage, memory, and CPU limits. As an Application Modernization, DevOps, and SRE developer, my projects are resource-intensive. I need to run multi-container environments like the Google Cloud [Microservices Demo](https://github.com/googlecloudplatform/microservices-demo). Plus, next week I’m attending the **Gemma Day Event** hosted by the Google DeepMind team. This will be my first hands-on contact with Gemma, and after the event, I plan to continue testing how the model interacts inside a Kubernetes cluster, establishing observability for **LLM-native metrics** (like token throughput and response latency). I don't want to buy an expensive machine with a GPU just to test these setups. Instead, I want to spin up a GPU-enabled VM in Compute Engine, run my tests, and delete it to control costs.
 
@@ -61,7 +61,7 @@ When developing in a terminal-only environment, managing multiple SSH windows or
 
 This three-panel layout allows you to write code, navigate files, and interact with the terminal in a single SSH session without overlapping windows.
 
-![Neovim 3-Panel Layout: Netrw, Editor, and Terminal with Antigravity CLI](images/neovim-3-panel-layout.jpg)
+![Neovim 3-Panel Layout: Netrw, Editor, and Terminal with Antigravity CLI](images/neovim-3-panel-layout.png)
 
 ---
 
