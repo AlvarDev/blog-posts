@@ -1,8 +1,9 @@
 ---
-title: "The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve"
+title: 'The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve'
 published: false
-description: "When your AI assistant writes the code, you don't need a heavy GUI IDE. Learn how Antigravity CLI and a lightweight Neovim setup create the perfect terminal-only workflow."
-tags: neovim, devops, linux, automation
+description: 'When your AI assistant writes the code, you don''t need a heavy GUI IDE. Learn how Antigravity CLI and a lightweight Neovim setup create the perfect terminal-only workflow.'
+tags: 'neovim, devops, linux, automation'
+id: 4345230
 ---
 
 A heavy GUI IDE is great for local development, but it quickly falls apart when you transition to headless servers, low-power client machines, or remote clouds. 
